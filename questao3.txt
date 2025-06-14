@@ -1,0 +1,3 @@
+dourado 120 50
+tilapia 50 30
+salm∆o 1000 40

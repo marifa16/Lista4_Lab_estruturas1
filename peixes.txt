@@ -1,0 +1,3 @@
+Tucunare,4500,68.00
+Pirarucu,90000,210.00
+Pintado,12500,95.50
